@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#f2eee4">
+  <meta name="description" content="Guía sencilla de las aves que podemos encontrar en Vistabella, Murcia.">
+  <title>Aves de Vistabella</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="guide" aria-label="Guía de aves de Vistabella">
+    <header class="site-header">
+      <h1>Aves de Vistabella</h1>
+      <p>Un paseo por la naturaleza del barrio <span aria-hidden="true">·</span> Murcia</p>
+    </header>
+
+    <nav class="bird-nav-wrap" aria-label="Seleccionar ave">
+      <button class="scroll-button scroll-button--left" id="scrollLeft" aria-label="Ver aves anteriores">‹</button>
+      <div class="bird-nav" id="birdNav" tabindex="0" aria-label="Aves; desliza horizontalmente para explorar"></div>
+      <button class="scroll-button scroll-button--right" id="scrollRight" aria-label="Ver más aves">›</button>
+    </nav>
+
+    <section class="bird-view" aria-live="polite">
+      <div class="hero-photo-wrap">
+        <img class="hero-photo" id="heroPhoto" alt="" />
+        <div class="photo-loading" id="photoLoading">Cargando fotografía…</div>
+        <div class="photo-source" id="photoSource"></div>
+      </div>
+
+      <section class="bird-heading">
+        <div>
+          <p class="eyebrow" id="birdGroup">AVE URBANA</p>
+          <h2 id="birdName">Mirlo común</h2>
+          <p class="latin" id="birdLatin">Turdus merula</p>
+        </div>
+        <div class="sex-control" id="sexControl" role="group" aria-label="Seleccionar sexo"></div>
+      </section>
+
+      <div class="audio-player-ui">
+        <div class="audio-actions">
+          <button class="audio-button" id="playAudio" type="button" aria-label="Escuchar el sonido">
+            <span class="play-icon" id="playIcon" aria-hidden="true">▶</span>
+            <span class="audio-label" id="audioLabel">Escuchar sonido</span>
+            <span class="audio-wave" aria-hidden="true">▂▅▃▆▂▇▃</span>
+          </button>
+          <button class="replay-button" id="replayAudio" type="button" aria-label="Reproducir desde el principio" title="Repetir desde el principio">↺</button>
+        </div>
+        <div class="audio-timeline">
+          <span id="audioCurrentTime" class="audio-time">0:00</span>
+          <input id="audioSeek" class="audio-seek" type="range" min="0" max="1000" value="0" step="1" aria-label="Posición del audio" disabled>
+          <span id="audioDuration" class="audio-time">0:00</span>
+        </div>
+      </div>
+      <audio id="audioPlayer" preload="metadata"></audio>
+      <p class="audio-credit" id="audioCredit" aria-live="polite"></p>
+
+      <section class="quick-facts" aria-label="Datos principales">
+        <div class="quick-fact season-fact">
+          <span class="fact-label">Cuándo verlo</span>
+          <strong id="season">Todo el año</strong>
+          <span class="fact-place">En Murcia</span>
+        </div>
+        <div class="quick-fact status-fact">
+          <span class="fact-label">Conservación</span>
+          <strong id="status">Preocupación menor</strong>
+          <span class="fact-place">UICN · escala global</span>
+        </div>
+      </section>
+
+      <section class="curiosity">
+        <span class="curiosity-kicker">¿Sabías que…?</span>
+        <p id="curiosityText"></p>
+      </section>
+
+      <section class="identification">
+        <span class="fact-label">En qué fijarse</span>
+        <p id="identificationText"></p>
+      </section>
+
+      <footer class="bird-controls">
+        <button class="step-button" id="previousBird" type="button"><span aria-hidden="true">←</span> Anterior</button>
+        <span class="position-count" id="positionCount">1 / 13</span>
+        <button class="step-button step-button--next" id="nextBird" type="button">Siguiente <span aria-hidden="true">→</span></button>
+      </footer>
+    </section>
+
+    <aside class="source-note">
+      Fotos y cantos incluidos en esta guía. Los créditos y las licencias aparecen junto a cada recurso; tras la primera carga, la guía puede quedar disponible sin conexión.
+    </aside>
+  </main>
+  <script src="media-data.js" defer></script>
+  <script src="app.js" defer></script>
+</body>
+</html>
+
