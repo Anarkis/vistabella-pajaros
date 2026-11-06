@@ -23,15 +23,13 @@
       "local": "media/mirlo-female.jpg"
     },
     "audio": {
-      "title": "File:Turdus merula 2.ogg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Turdus_merula_2.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "page": "https://commons.wikimedia.org/wiki/File:Turdus_merula_2.ogg",
-      "creator": "Oona Räisänen ( Mysid )",
-      "license": "Public domain",
-      "mime": "application/ogg",
-      "size": 314123,
-      "description": "A Common Blackbird ( Turdus merula ) singing in a forest in Southern Finland.",
-      "local": "media/mirlo-canto.ogg"
+      "title": "Canto de mirlo · SEO/BirdLife",
+      "url": "https://seo.org/wp-content/uploads/2013/11/F426_Canto.mp3",
+      "page": "https://seo.org/ave/mirlo-comun/",
+      "license": null,
+      "mime": "audio/mpeg",
+      "description": "Reproducción en línea desde la ficha oficial de SEO/BirdLife.",
+      "publisher": "SEO/BirdLife"
     }
   },
   "gorrión": {
@@ -57,14 +55,13 @@
       "local": "media/gorrión-female.jpg"
     },
     "audio": {
-      "title": "File:House Sparrows (Passer domesticus) (W1CDR0001537 BD13).ogg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/House_Sparrows_%28Passer_domesticus%29_%28W1CDR0001537_BD13%29.ogg",
-      "page": "https://commons.wikimedia.org/wiki/File:House_Sparrows_%28Passer_domesticus%29_%28W1CDR0001537_BD13%29.ogg",
-      "creator": "Aubrey John Williams · British Library",
-      "license": "CC BY-SA 4.0",
-      "mime": "audio/ogg",
-      "description": "Song and calls of house sparrows, recorded in Cowley, Gloucestershire, England. 1 min 20 s.",
-      "local": "media/gorrión-canto.ogg"
+      "title": "Canto de gorrión · SEO/BirdLife",
+      "url": "https://seo.org/wp-content/uploads/2013/11/F519-Canto.mp3",
+      "page": "https://seo.org/ave/gorrion-comun/",
+      "license": null,
+      "mime": "audio/mpeg",
+      "description": "Reproducción en línea desde la ficha oficial de SEO/BirdLife.",
+      "publisher": "SEO/BirdLife"
     }
   },
   "vencejo": {
@@ -81,15 +78,13 @@
     },
     "female": null,
     "audio": {
-      "title": "File:Apus apus - Common Swift XC554033.mp3",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Apus_apus_-_Common_Swift_XC554033.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "page": "https://commons.wikimedia.org/wiki/File:Apus_apus_-_Common_Swift_XC554033.mp3",
-      "creator": "Luis Alvarez Menendez",
-      "license": "CC BY-SA 4.0",
+      "title": "Canto de vencejo · SEO/BirdLife",
+      "url": "https://seo.org/wp-content/uploads/2013/11/F347_Canto.mp3",
+      "page": "https://seo.org/ave/vencejo-comun/",
+      "license": null,
       "mime": "audio/mpeg",
-      "size": 144218,
-      "description": ":bird-seen:yes playback-used:no Common name: Common Swift Type: flight call, life stage uncertain, sex uncertain Genus: Apus Species: apus Location: Oviedo, Asturias, Principado de Asturias Country: Spain Elevation: 400 m",
-      "local": "media/vencejo-canto.mp3"
+      "description": "Reproducción en línea desde la ficha oficial de SEO/BirdLife.",
+      "publisher": "SEO/BirdLife"
     }
   },
   "golondrina": {
@@ -114,14 +109,13 @@
       "local": "media/golondrina-female.jpg"
     },
     "audio": {
-      "title": "File:Hirundo rustica - Barn Swallow - XC83449.ogg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Hirundo_rustica_-_Barn_Swallow_-_XC83449.ogg",
-      "page": "https://commons.wikimedia.org/wiki/File:Hirundo_rustica_-_Barn_Swallow_-_XC83449.ogg",
-      "creator": "Jonathon Jongsma",
-      "license": "CC BY-SA 3.0",
-      "mime": "audio/ogg",
-      "description": "Canto de un macho: twitter-warble song. Grabado en Minnesota Valley NWR, Estados Unidos.",
-      "local": "media/golondrina-canto.ogg"
+      "title": "Canto de golondrina · SEO/BirdLife",
+      "url": "https://seo.org/wp-content/uploads/2013/11/F377_Canto.mp3",
+      "page": "https://seo.org/ave/golondrina-comun/",
+      "license": null,
+      "mime": "audio/mpeg",
+      "description": "Reproducción en línea desde la ficha oficial de SEO/BirdLife.",
+      "publisher": "SEO/BirdLife"
     }
   },
   "avion": {
@@ -137,14 +131,13 @@
     },
     "female": null,
     "audio": {
-      "title": "File:Common House Martin (Delichon urbica) (W DELICHON URBICA R3 C3).ogg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Common_House_Martin_%28Delichon_urbica%29_%28W_DELICHON_URBICA_R3_C3%29.ogg",
-      "page": "https://commons.wikimedia.org/wiki/File:Common_House_Martin_%28Delichon_urbica%29_%28W_DELICHON_URBICA_R3_C3%29.ogg",
-      "creator": "Victor C. Lewis · British Library",
-      "license": "CC BY 4.0",
-      "mime": "audio/ogg",
-      "description": "Common house martin song, recorded in Cardiganshire, Wales. 32 s.",
-      "local": "media/avion-canto.ogg"
+      "title": "Canto de avion · SEO/BirdLife",
+      "url": "https://seo.org/wp-content/uploads/2013/11/F380_Canto.mp3",
+      "page": "https://seo.org/ave/avion-comun/",
+      "license": null,
+      "mime": "audio/mpeg",
+      "description": "Reproducción en línea desde la ficha oficial de SEO/BirdLife.",
+      "publisher": "SEO/BirdLife"
     }
   },
   "autillo": {
@@ -161,49 +154,46 @@
     },
     "female": null,
     "audio": {
-      "title": "File:Otus scops - Eurasian Scops Owl XC481631.mp3",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Otus_scops_-_Eurasian_Scops_Owl_XC481631.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "page": "https://commons.wikimedia.org/wiki/File:Otus_scops_-_Eurasian_Scops_Owl_XC481631.mp3",
-      "creator": "Alexander Kürthy",
-      "license": "CC BY-SA 4.0",
+      "title": "Canto de autillo · SEO/BirdLife",
+      "url": "https://seo.org/wp-content/uploads/2013/11/F332_Canto.mp3",
+      "page": "https://seo.org/ave/autillo-europeo/",
+      "license": null,
       "mime": "audio/mpeg",
-      "size": 1200200,
-      "description": ":Part of long recording, no modified, no filtering, no change. Mixed forest, cca 50-60 year old Pinus sylvestris, open places with sand bird-seen:no playback-used:no Common name: Eurasian Scops Owl Type: song Genus: Otus Species: scops Location: Jelka, Galanta, Trnavský kraj Country: Slovakia Elevation: 120 m",
-      "local": "media/autillo-canto.mp3"
+      "description": "Reproducción en línea desde la ficha oficial de SEO/BirdLife.",
+      "publisher": "SEO/BirdLife"
     }
   },
   "cernicalo": {
     "male": {
-      "title": "File:Eurasian kestrel 2024 03 11 02.jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Eurasian_kestrel_2024_03_11_02.jpg/1920px-Eurasian_kestrel_2024_03_11_02.jpg",
-      "page": "https://commons.wikimedia.org/wiki/File:Eurasian_kestrel_2024_03_11_02.jpg",
+      "title": "File:Eurasian kestrel 2024 03 11 01.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Eurasian_kestrel_2024_03_11_01.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Eurasian_kestrel_2024_03_11_01.jpg",
       "creator": "Alexis Lours",
       "license": "CC BY 4.0",
       "mime": "image/jpeg",
-      "description": "Male Eurasian kestrel perched on a branch, Franconville, France. Wikimedia Commons quality image.",
+      "size": 219294,
+      "description": "Macho de cernícalo vulgar posado en una rama; cuerpo completo y rasgos del plumaje visibles. Franconville, Francia.",
       "local": "media/cernicalo-male.jpg"
     },
     "female": {
-      "title": "File:Common kestrel (Falco tinnunculus) female (IMGP1648r1).jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Common_kestrel_%28Falco_tinnunculus%29_female_%28IMGP1648r1%29.jpg/1920px-Common_kestrel_%28Falco_tinnunculus%29_female_%28IMGP1648r1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "page": "https://commons.wikimedia.org/wiki/File:Common_kestrel_%28Falco_tinnunculus%29_female_%28IMGP1648r1%29.jpg",
-      "creator": "Alexey V. Kurochkin",
-      "license": "CC BY-SA 4.0",
+      "title": "File:Common kestrel female France.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Common_kestrel_female_France.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Common_kestrel_female_France.jpg",
+      "creator": "Alexis Lours",
+      "license": "CC BY 4.0",
       "mime": "image/jpeg",
-      "size": 5819614,
-      "description": "Common kestrel (Falco tinnunculus) female, Moscow Oblast near Yakhroma",
+      "size": 233536,
+      "description": "Hembra de cernícalo vulgar posada en un árbol; imagen completa con fondo natural. Franconville, Francia.",
       "local": "media/cernicalo-female.jpg"
     },
     "audio": {
-      "title": "File:Falco tinnunculus - Common Kestrel XC468403.mp3",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Falco_tinnunculus_-_Common_Kestrel_XC468403.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "page": "https://commons.wikimedia.org/wiki/File:Falco_tinnunculus_-_Common_Kestrel_XC468403.mp3",
-      "creator": "Marie-Lan Taÿ Pamart",
-      "license": "CC BY-SA 4.0",
+      "title": "Canto de cernicalo · SEO/BirdLife",
+      "url": "https://seo.org/wp-content/uploads/2013/11/F163_Canto.mp3",
+      "page": "https://seo.org/ave/cernicalo-vulgar/",
+      "license": null,
       "mime": "audio/mpeg",
-      "size": 314346,
-      "description": ":One bird calling to their mate from the top of a tree, not far from the nest. Distance: <20m Equipment: Tascam DR05 + Sennheiser ME66 + Rycote Windjammer bird-seen:yes playback-used:no Common name: Common Kestrel Type: call Genus: Falco Species: tinnunculus Location: Paslières, Puy-de-Dôme, Auvergne-Rhône-Alpes Country: France Elevation: 400 m",
-      "local": "media/cernicalo-canto.mp3"
+      "description": "Reproducción en línea desde la ficha oficial de SEO/BirdLife.",
+      "publisher": "SEO/BirdLife"
     }
   },
   "carbonero": {
@@ -230,15 +220,13 @@
       "local": "media/carbonero-female.jpg"
     },
     "audio": {
-      "title": "File:Parus major - Great Tit XC129643.ogg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Parus_major_-_Great_Tit_XC129643.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "page": "https://commons.wikimedia.org/wiki/File:Parus_major_-_Great_Tit_XC129643.ogg",
-      "creator": "Gavin Vella",
-      "license": "CC BY-SA 3.0",
-      "mime": "application/ogg",
-      "size": 1489062,
-      "description": "None given Common name: Great Tit Type: song Genus: Parus Species: major Location: Pen Tranch, Torfaen, Wales Elevation: 280 m",
-      "local": "media/carbonero-canto.ogg"
+      "title": "Canto de carbonero · SEO/BirdLife",
+      "url": "https://seo.org/wp-content/uploads/2013/11/F489-Canto.mp3",
+      "page": "https://seo.org/ave/carbonero-comun/",
+      "license": null,
+      "mime": "audio/mpeg",
+      "description": "Reproducción en línea desde la ficha oficial de SEO/BirdLife.",
+      "publisher": "SEO/BirdLife"
     }
   },
   "lavandera": {
@@ -265,39 +253,36 @@
       "local": "media/lavandera-female.jpg"
     },
     "audio": {
-      "title": "File:Motacilla alba - White Wagtail XC466458.mp3",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Motacilla_alba_-_White_Wagtail_XC466458.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "page": "https://commons.wikimedia.org/wiki/File:Motacilla_alba_-_White_Wagtail_XC466458.mp3",
-      "creator": "Pascal Christe",
-      "license": "CC BY-SA 4.0",
+      "title": "Canto de lavandera · SEO/BirdLife",
+      "url": "https://seo.org/wp-content/uploads/2013/11/F394_Canto.mp3",
+      "page": "https://seo.org/ave/lavandera-blanca/",
+      "license": null,
       "mime": "audio/mpeg",
-      "size": 433071,
-      "description": ":bird-seen:yes playback-used:no Common name: White Wagtail Type: call, song Genus: Motacilla Species: alba Location: Yverdon-les-Bains, Vaud Country: Switzerland Elevation: 440 m",
-      "local": "media/lavandera-canto.mp3"
+      "description": "Reproducción en línea desde la ficha oficial de SEO/BirdLife.",
+      "publisher": "SEO/BirdLife"
     }
   },
   "estornino": {
     "male": {
-      "title": "File:Spotless starling (Sturnus unicolor).jpg",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Spotless_starling_%28Sturnus_unicolor%29.jpg/1920px-Spotless_starling_%28Sturnus_unicolor%29.jpg",
-      "page": "https://commons.wikimedia.org/wiki/File:Spotless_starling_%28Sturnus_unicolor%29.jpg",
-      "creator": "Charles J. Sharp",
-      "license": "CC BY-SA 4.0",
+      "title": "File:Sturnus unicolor 024.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Sturnus_unicolor_024.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Sturnus_unicolor_024.jpg",
+      "creator": "Luis García (Zaqarbal)",
+      "license": "CC BY-SA 3.0 ES",
       "mime": "image/jpeg",
-      "description": "Spotless starling near Trujillo, Spain.",
+      "size": 631371,
+      "description": "Estornino negro (Sturnus unicolor) fotografiado en Madrid, con el cuerpo y el plumaje visibles.",
       "local": "media/estornino-male.jpg"
     },
     "female": null,
     "audio": {
-      "title": "File:Sturnus unicolor - Spotless Starling XC431985.mp3",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Sturnus_unicolor_-_Spotless_Starling_XC431985.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "page": "https://commons.wikimedia.org/wiki/File:Sturnus_unicolor_-_Spotless_Starling_XC431985.mp3",
-      "creator": "Joost van Bruggen",
-      "license": "CC BY-SA 4.0",
+      "title": "Canto de estornino · SEO/BirdLife",
+      "url": "https://seo.org/wp-content/uploads/2013/11/F517-Canto.mp3",
+      "page": "https://seo.org/ave/estornino-negro/",
+      "license": null,
       "mime": "audio/mpeg",
-      "size": 5116355,
-      "description": ":bird-seen:yes playback-used:no Common name: Spotless Starling Type: song Genus: Sturnus Species: unicolor Location: Aljarafe (near Aznalcázar), Sevilla, Andalucía Country: Spain Elevation: 0 m",
-      "local": "media/estornino-canto.mp3"
+      "description": "Reproducción en línea desde la ficha oficial de SEO/BirdLife.",
+      "publisher": "SEO/BirdLife"
     }
   },
   "jilguero": {
@@ -313,14 +298,13 @@
     },
     "female": null,
     "audio": {
-      "title": "File:Carduelis carduelis - European Goldfinch XC473287.mp3",
-      "local": "media/jilguero-canto.mp3",
-      "page": "https://commons.wikimedia.org/wiki/File:Carduelis_carduelis_-_European_Goldfinch_XC473287.mp3",
-      "creator": "Marie-Lan Taÿ Pamart",
-      "license": "CC BY-SA 4.0",
+      "title": "Canto de jilguero · SEO/BirdLife",
+      "url": "https://seo.org/wp-content/uploads/2013/11/F534-Canto.mp3",
+      "page": "https://seo.org/ave/jilguero-europeo/",
+      "license": null,
       "mime": "audio/mpeg",
-      "size": 312189,
-      "description": ":One from a group of birds singing from within a tree in the village. Distance: ~3m Edits: -12dB high-pass filter at 1400Hz Equipment: Sennheiser ME66/K6, Rycote Windjammer, Tascam DR-05 bird-seen:yes playback-used:no Common name: European Goldfinch Type: song Genus: Carduelis Species: carduelis Location: Rochegude, Drôme, Auvergne-Rhône-Alpes Country: France Elevation: 140 m"
+      "description": "Reproducción en línea desde la ficha oficial de SEO/BirdLife.",
+      "publisher": "SEO/BirdLife"
     }
   },
   "verdecillo": {
@@ -336,15 +320,13 @@
     },
     "female": null,
     "audio": {
-      "title": "File:Serinus serinus - European Serin XC471334.mp3",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Serinus_serinus_-_European_Serin_XC471334.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "page": "https://commons.wikimedia.org/wiki/File:Serinus_serinus_-_European_Serin_XC471334.mp3",
-      "creator": "Marie-Lan Taÿ Pamart",
-      "license": "CC BY-SA 4.0",
+      "title": "Canto de verdecillo · SEO/BirdLife",
+      "url": "https://seo.org/wp-content/uploads/2013/11/F530-Canto.mp3",
+      "page": "https://seo.org/ave/verdecillo/",
+      "license": null,
       "mime": "audio/mpeg",
-      "size": 1750712,
-      "description": ":Bird calling from a tree. Distance: <10m Equipment: Tascam DR-05 + Sennheiser ME66/K6 + Rycote Windjammer Edits: -12dB high-pass filter at 1200Hz, +5dB amplification bird-seen:yes playback-used:no Common name: European Serin Type: song Genus: Serinus Species: serinus Location: Casteil, Pyrénées-Orientales, Occitanie Country: France Elevation: 1000 m",
-      "local": "media/verdecillo-canto.mp3"
+      "description": "Reproducción en línea desde la ficha oficial de SEO/BirdLife.",
+      "publisher": "SEO/BirdLife"
     }
   },
   "verderon": {
@@ -370,14 +352,114 @@
       "local": "media/verderon-female.jpg"
     },
     "audio": {
-      "title": "File:Chloris chloris - Verdier dEurope - XC292576.oga",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Chloris_chloris_-_Verdier_dEurope_-_XC292576.oga",
-      "page": "https://commons.wikimedia.org/wiki/File:Chloris_chloris_-_Verdier_dEurope_-_XC292576.oga",
-      "creator": "Gérard Olivier",
-      "license": "CC BY-SA 4.0",
-      "mime": "audio/ogg",
-      "description": "Canto de verderón, grabado en Borgoña, Francia. 47 s.",
-      "local": "media/verderon-canto.ogg"
+      "title": "Canto de verderon · SEO/BirdLife",
+      "url": "https://seo.org/wp-content/uploads/2013/11/F533-Canto.mp3",
+      "page": "https://seo.org/ave/verderon-comun/",
+      "license": null,
+      "mime": "audio/mpeg",
+      "description": "Reproducción en línea desde la ficha oficial de SEO/BirdLife.",
+      "publisher": "SEO/BirdLife"
     }
+  },
+  "colirrojo": {
+    "male": {
+      "title": "File:Colirojo macho.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Colirojo_macho.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Colirojo_macho.jpg",
+      "creator": "Félix Hernández Pérez",
+      "license": "CC BY-SA 4.0",
+      "mime": "image/jpeg",
+      "size": 223907,
+      "description": "Colirrojo tizón macho.",
+      "local": "media/colirrojo-male.jpg"
+    },
+    "female": {
+      "title": "File:Colirrojo hembra.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Colirrojo_hembra.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Colirrojo_hembra.jpg",
+      "creator": "Félix Hernández Pérez",
+      "license": "CC BY-SA 4.0",
+      "mime": "image/jpeg",
+      "size": 55834,
+      "description": "Colirrojo tizón hembra.",
+      "local": "media/colirrojo-female.jpg"
+    },
+    "audio": {
+      "title": "Canto de colirrojo · SEO/BirdLife",
+      "url": "https://seo.org/wp-content/uploads/2013/11/F409_Canto.mp3",
+      "page": "https://seo.org/ave/colirrojo-tizon/",
+      "license": null,
+      "mime": "audio/mpeg",
+      "description": "Reproducción en línea desde la ficha oficial de SEO/BirdLife.",
+      "publisher": "SEO/BirdLife"
+    }
+  },
+  "grajilla": {
+    "male": {
+      "title": "File:Corvus monedula on grass.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Corvus_monedula_on_grass.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Corvus_monedula_on_grass.jpg",
+      "creator": "Lewis Hulbert",
+      "license": "CC BY 3.0",
+      "mime": "image/jpeg",
+      "size": 532935,
+      "description": "Grajilla occidental (Corvus monedula) sobre la hierba.",
+      "local": "media/grajilla-male.jpg"
+    },
+    "female": null,
+    "audio": {
+      "title": "Canto de grajilla · SEO/BirdLife",
+      "url": "https://seo.org/wp-content/uploads/2013/11/F510-Canto.mp3",
+      "page": "https://seo.org/ave/grajilla-occidental/",
+      "license": null,
+      "mime": "audio/mpeg",
+      "description": "Reproducción en línea desde la ficha oficial de SEO/BirdLife.",
+      "publisher": "SEO/BirdLife"
+    }
+  },
+  "garcilla-bueyera": {
+    "male": {
+      "title": "File:Cattle egret (Bubulcus ibis),Fuerteventura.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Cattle_egret_%28Bubulcus_ibis%29%2CFuerteventura.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Cattle_egret_%28Bubulcus_ibis%29%2CFuerteventura.jpg",
+      "creator": "Hobbyfotowiki",
+      "license": "CC0",
+      "mime": "image/jpeg",
+      "size": 523531,
+      "description": "Garcilla bueyera (Bubulcus ibis), Fuerteventura, España.",
+      "local": "media/garcilla-bueyera-male.jpg"
+    },
+    "female": null,
+    "audio": {
+      "title": "Canto de garcilla-bueyera · SEO/BirdLife",
+      "url": "https://seo.org/wp-content/uploads/2013/11/F112_Canto.mp3",
+      "page": "https://seo.org/ave/garcilla-bueyera/",
+      "license": null,
+      "mime": "audio/mpeg",
+      "description": "Reproducción en línea desde la ficha oficial de SEO/BirdLife.",
+      "publisher": "SEO/BirdLife"
+    }
+  },
+  "petirrojo": {
+    "audio": {
+      "title": "Canto de petirrojo · SEO/BirdLife",
+      "url": "https://seo.org/wp-content/uploads/2013/11/F404_Canto.mp3",
+      "page": "https://seo.org/ave/petirrojo-europeo/",
+      "license": null,
+      "mime": "audio/mpeg",
+      "description": "Reproducción en línea desde la ficha oficial de SEO/BirdLife.",
+      "publisher": "SEO/BirdLife"
+    },
+    "male": {
+      "title": "File:European Robin 2023-10-10.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/European_Robin_2023-10-10.jpg/1920px-European_Robin_2023-10-10.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:European_Robin_2023-10-10.jpg",
+      "creator": "Alexis Lours",
+      "license": "CC BY 4.0",
+      "mime": "image/jpeg",
+      "description": "Petirrojo europeo posado en una rama. Ave completa y fondo despejado.",
+      "local": "media/petirrojo.jpg"
+    },
+    "female": null
   }
 }
